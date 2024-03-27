@@ -92,7 +92,7 @@ DATABASES = {
         'NAME': 'salem1190420',
         'USER': 'asalem20',
         'PASSWORD': 'Messime1',
-        'HOST': 'ehrserver.postgres.database.azure.com',
+        'HOST': 'salem1190420.postgres.database.azure.com',
         'PORT': '5432',
         'OPTIONS':{'sslmode':'require'},
     }
